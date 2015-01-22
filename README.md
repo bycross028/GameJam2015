@@ -1,1 +1,1 @@
-# GameJam2015
+# GameJeam2015
